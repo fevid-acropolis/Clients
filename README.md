@@ -1,6 +1,6 @@
 <h1 align="center">Acropolis Exports</h1>
 
-<h3>fevid.vercel.app :</h3>
+<h3>[PAUSED MAINTAINENCE] fevid.vercel.app :</h3>
 MAIN DEV: @gdsimpson3 @ttaksheel @tepid-neitzen @bsw-g-d-iph6
 <br/>
 DEPLOYMENT: @gdsimpson3
@@ -33,7 +33,7 @@ MAIN DEV: @ttaksheel
 DEPLOYMENT: @ttaksheel
 
     https://ttaksheel.vercel.app/
-<h3>belu.vercel.app :</h3>
+<h3>[REMOVED] belu.vercel.app :</h3>
 MAIN DEV: @bsw-g-d-iph6
 <br/>
 DEPLOYMENT: @gdsimpson3
